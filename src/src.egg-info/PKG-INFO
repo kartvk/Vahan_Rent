@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small Vehicle Recommentation system for Rental Purpose
+Author: KARTHIK K
+Author-email: karthikkarthik892002@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
